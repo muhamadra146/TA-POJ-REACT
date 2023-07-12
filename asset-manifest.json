@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TA-POJ-REACT/static/css/main.2ac317ef.css",
+    "main.js": "/TA-POJ-REACT/static/js/main.6ae3c447.js",
+    "static/media/pantai5.jpg": "/TA-POJ-REACT/static/media/pantai5.672bc9979bf0f9a3be47.jpg",
+    "static/media/pantai2.jpg": "/TA-POJ-REACT/static/media/pantai2.b10a41a3f67644f91b63.jpg",
+    "static/media/pantai3.jpg": "/TA-POJ-REACT/static/media/pantai3.26cc6c1d7c410914b5c5.jpg",
+    "static/media/pantai4.jpg": "/TA-POJ-REACT/static/media/pantai4.cd382a6d47ff827f9f59.jpg",
+    "static/media/pantai1.jpg": "/TA-POJ-REACT/static/media/pantai1.f0c95705e84a37b12a50.jpg",
+    "static/media/Group 22.png": "/TA-POJ-REACT/static/media/Group 22.b433515c210b1f119427.png",
+    "static/media/Group 24.png": "/TA-POJ-REACT/static/media/Group 24.312d25e39b8877ed6bce.png",
+    "static/media/Group 23.png": "/TA-POJ-REACT/static/media/Group 23.062414f24fe8bb75526f.png",
+    "static/media/Rectangle 29.png": "/TA-POJ-REACT/static/media/Rectangle 29.bea88c6adf77333f7d7d.png",
+    "static/media/Rectangle 49.png": "/TA-POJ-REACT/static/media/Rectangle 49.6c8fcc340d1bf1d326a6.png",
+    "static/media/Rectangle 29 (2).png": "/TA-POJ-REACT/static/media/Rectangle 29 (2).0d87a323986c47fc5505.png",
+    "static/media/Rectangle 29 (1).png": "/TA-POJ-REACT/static/media/Rectangle 29 (1).3d671455e8571aba3da7.png",
+    "static/media/Rectangle 29 (3).png": "/TA-POJ-REACT/static/media/Rectangle 29 (3).b1b1719c71b48423f996.png",
+    "index.html": "/TA-POJ-REACT/index.html",
+    "main.2ac317ef.css.map": "/TA-POJ-REACT/static/css/main.2ac317ef.css.map",
+    "main.6ae3c447.js.map": "/TA-POJ-REACT/static/js/main.6ae3c447.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ac317ef.css",
+    "static/js/main.6ae3c447.js"
+  ]
+}
