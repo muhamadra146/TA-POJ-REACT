@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TA-POJ-REACT/static/css/main.2ac317ef.css",
-    "main.js": "/TA-POJ-REACT/static/js/main.6ae3c447.js",
+    "main.js": "/TA-POJ-REACT/static/js/main.54f0a44c.js",
     "static/media/pantai5.jpg": "/TA-POJ-REACT/static/media/pantai5.672bc9979bf0f9a3be47.jpg",
     "static/media/pantai2.jpg": "/TA-POJ-REACT/static/media/pantai2.b10a41a3f67644f91b63.jpg",
     "static/media/pantai3.jpg": "/TA-POJ-REACT/static/media/pantai3.26cc6c1d7c410914b5c5.jpg",
@@ -17,10 +17,10 @@
     "static/media/Rectangle 29 (3).png": "/TA-POJ-REACT/static/media/Rectangle 29 (3).b1b1719c71b48423f996.png",
     "index.html": "/TA-POJ-REACT/index.html",
     "main.2ac317ef.css.map": "/TA-POJ-REACT/static/css/main.2ac317ef.css.map",
-    "main.6ae3c447.js.map": "/TA-POJ-REACT/static/js/main.6ae3c447.js.map"
+    "main.54f0a44c.js.map": "/TA-POJ-REACT/static/js/main.54f0a44c.js.map"
   },
   "entrypoints": [
     "static/css/main.2ac317ef.css",
-    "static/js/main.6ae3c447.js"
+    "static/js/main.54f0a44c.js"
   ]
 }
