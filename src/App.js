@@ -14,6 +14,7 @@ function App() {
     <div className="App">
       <Navbar/>
       <Routes>
+        <Route path='/' Component={Discovery}/>
         <Route path='/discovery' Component={Discovery}/>
         <Route path='/destination' Component={Destination}/>
         <Route path='/package' Component={Package}/>

@@ -1,8 +1,8 @@
 {
   "name": "react-poj",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://muhamadra146.github.io/TA-POJ-REACT",
+  "homepage": "https://muhamadra146.github.io/TA-POJ-REACT/",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
